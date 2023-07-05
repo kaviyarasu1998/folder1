@@ -1,0 +1,22 @@
+git init
+
+git config --global user.name "kaviyarasu1998"
+
+git config --global user.email "kaviyarasukaviyarasu78461@gmail.com"
+
+git add .
+
+git status
+
+git commit -m "new framework"
+
+git remote add origin https://github.com/kaviyarasu1998/kaviyarasu.git
+
+git push -u orgin master
+
+
+
+Madhavan@1234====>pswd
+
+
+
